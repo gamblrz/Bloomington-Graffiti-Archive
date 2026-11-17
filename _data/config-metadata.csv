@@ -1,15 +1,24 @@
-field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
+field,display_name
+titleofgraffiti,Title of Graffiti,
 description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+dateofphoto,Date of Photo,
+photographer,Photographer,
+photocopyright,Photo Copyright,true
+rightsstatement, Rights Statement,
+graffitimaterial, GRaffiti Material,
+surfacematerial, Surface Material, 
+color, Color,
+building, Building,
+business, Business,
+location,Location,
+latitude,Latitude,
+longitude,Longitude,
+artisttag, Artist Tag,
+subject, Subject,
+objectid, Objectid,
+filename, Filename,
+format, Format,
+language, Language,
+city, City,
+state, State,
+country, Country
